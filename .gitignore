@@ -1,0 +1,6 @@
+# Ignore the .metadata folder
+.metadata/
+
+# Ignore the mesh_join folder
+mesh_join/
+ 
